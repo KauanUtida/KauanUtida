@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Kauan!
+## 👨‍💻 Olá, eu sou o Kauan!
 
 🚀 **Systems Analysis and Development studend**
 🇧🇷 Brazil
