@@ -4,7 +4,7 @@
 🇧🇷 Brazil
 
 
-Atualmente estou cursando **anlise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.
+Atualmente estou cursando **análise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.
 
 Estou focado em aprender desenvolvimento backend com Node.js, criação de APIs, bancos de dados e ferramentas modernas de desenvolvimento. Gosto de resolver problemas, entender como os sistemas funcionam por trás das interfaces e transformar ideias em aplicações funcionais.
 
