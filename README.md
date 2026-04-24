@@ -1,15 +1,5 @@
 ## 👨‍💻 Olá, eu sou o Kauan!
 
-🚀 **Systems Analysis and Development studend**
-🇧🇷 Brazil
-
-
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.
-
-Estou focado em aprender desenvolvimento backend com Java, criação de APIs, bancos de dados e ferramentas modernas de desenvolvimento. Gosto de resolver problemas, entender como os sistemas funcionam por trás das interfaces e transformar ideias em aplicações funcionais.
-
-No momento, estou em busca da minha primeira oportunidade profissional na área de tecnologia — seja como estagiário ou desenvolvedor júnior — onde eu possa crescer, contribuir e adquirir experiência prática no mercado.
-
 # 💫 About Me:
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.<br><br>Estou focado em aprender desenvolvimento backend com Java, criação de APIs, bancos de dados e ferramentas modernas de desenvolvimento. Gosto de resolver problemas, entender como os sistemas funcionam por trás das interfaces e transformar ideias em aplicações funcionais.<br><br>No momento, estou em busca da minha primeira oportunidade profissional na área de tecnologia — seja como estagiário ou desenvolvedor júnior — onde eu possa crescer, contribuir e adquirir experiência prática no mercado.<br><br>Acredito em aprendizado contínuo, prática constante e no uso de ferramentas como documentação técnica e IA para evoluir mais rápido e pensar como um desenvolvedor profissional.<br>
 
