@@ -4,7 +4,7 @@
 🇧🇷 Brazil
 
 
-Atualmente estou cursando **Aanálise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.
 
 Estou focado em aprender desenvolvimento backend com Java, criação de APIs, bancos de dados e ferramentas modernas de desenvolvimento. Gosto de resolver problemas, entender como os sistemas funcionam por trás das interfaces e transformar ideias em aplicações funcionais.
 
