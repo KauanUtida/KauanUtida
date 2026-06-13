@@ -1,3 +1,4 @@
+
 ## 👨‍💻 Olá, eu sou o Kauan!
 # 💫 About Me:
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.<br><br>Estou focado em aprender desenvolvimento backend com Java, criação de APIs, bancos de dados e ferramentas modernas de desenvolvimento. Gosto de resolver problemas, entender como os sistemas funcionam por trás das interfaces e transformar ideias em aplicações funcionais.<br><br>No momento, estou em busca da minha primeira oportunidade profissional na área de tecnologia — seja como estagiário ou desenvolvedor júnior — onde eu possa crescer, contribuir e adquirir experiência prática no mercado.<br><br>Acredito em aprendizado contínuo, prática constante e no uso de ferramentas como documentação técnica e IA para evoluir mais rápido e pensar como um desenvolvedor profissional.<br>
@@ -20,6 +21,7 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-S
   </td>
     <td>
       <img src="https://github.com/user-attachments/assets/1f0bcbfc-75c4-4f91-bea4-a7031a7c733d" width="300"/>
+      <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/4c64a07d-b8ef-4e3f-8864-3ed06fe69263" />
     </td>
   </tr>
 </table>
