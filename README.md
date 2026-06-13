@@ -21,7 +21,7 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-S
   </td>
     <td>
       <img src="https://github.com/user-attachments/assets/1f0bcbfc-75c4-4f91-bea4-a7031a7c733d" width="300"/>
-      <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/4c64a07d-b8ef-4e3f-8864-3ed06fe69263" />
+      <img width="300" height="300" alt="giphy" src="https://github.com/user-attachments/assets/4c64a07d-b8ef-4e3f-8864-3ed06fe69263" />
     </td>
   </tr>
 </table>
