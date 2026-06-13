@@ -1,4 +1,4 @@
-<img width="324" height="200" alt="200" src="https://github.com/user-attachments/assets/1f0bcbfc-75c4-4f91-bea4-a7031a7c733d" />
+
 ## 👨‍💻 Olá, eu sou o Kauan!
 
 # 💫 About Me:
