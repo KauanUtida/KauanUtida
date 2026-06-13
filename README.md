@@ -29,3 +29,19 @@ Não busco ser perfeito — busco evoluir todos os dias.
 Estou apenas começando, mas estou comprometido em aprender, construir e crescer.
 
 Se você procura alguém determinado, curioso e pronto para evoluir — vamos nos conectar.
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KauanUtida/KauanUtida/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KauanUtida/KauanUtida/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/KauanUtida/KauanUtida/output/github-snake.svg"
+  />
+</picture>
