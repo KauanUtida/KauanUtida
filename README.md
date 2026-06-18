@@ -19,10 +19,7 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-S
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KauanUtida&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/1f0bcbfc-75c4-4f91-bea4-a7031a7c733d" width="300"/>
-      <img width="300" height="300" alt="giphy" src="https://github.com/user-attachments/assets/4c64a07d-b8ef-4e3f-8864-3ed06fe69263" />
-    </td>
+    <td>     
   </tr>
 </table>
 
