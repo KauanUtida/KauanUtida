@@ -1,46 +1,28 @@
-
 ## 👨‍💻 Olá, eu sou o Kauan!
 # 💫 About Me:
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIP-SP** (Universidade Paulista) e desenvolvendo minhas habilidades em programação e desenvolvimento de software.<br><br>Estou focado em aprender desenvolvimento backend com Java, criação de APIs, bancos de dados e ferramentas modernas de desenvolvimento. Gosto de resolver problemas, entender como os sistemas funcionam por trás das interfaces e transformar ideias em aplicações funcionais.<br><br>No momento, estou em busca da minha primeira oportunidade profissional na área de tecnologia — seja como estagiário ou desenvolvedor júnior — onde eu possa crescer, contribuir e adquirir experiência prática no mercado.<br><br>Acredito em aprendizado contínuo, prática constante e no uso de ferramentas como documentação técnica e IA para evoluir mais rápido e pensar como um desenvolvedor profissional.<br>
+Desenvolvedor Backend focado em **Python**, **automação** e **AI Engineering**.<br><br>Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP-SP** e trabalho em projetos profissionais envolvendo pipelines de dados, integrações complexas e sistemas escaláveis. Minha paixão é entender como os sistemas funcionam, construir soluções robustas e explorar as possibilidades que a IA oferece para resolver problemas reais.<br><br>Acredito que os melhores desenvolvedores combinam **fundações técnicas sólidas** com **curiosidade constante**. Estou sempre estudando padrões de arquitetura, explorando novas tecnologias e trabalhando em projetos desafiadores que me empurram além da zona de conforto.<br><br>Aprendizado contínuo é meu mantra — cada projeto é uma oportunidade de crescer.
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71C1C.svg?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-
 ![](https://github-readme-stats.shion.dev/api?username=KauanUtida&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-
 ![](https://streak-stats.demolab.com/?user=KauanUtida&theme=neon&hide_border=false)
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KauanUtida&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  </td>
-    <td>     
-  </tr>
-</table>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ---
+
+### 🎯 O que eu estou construindo:
+- **Backend Systems**: APIs escaláveis com FastAPI, modelagem de dados com SQLAlchemy, automação de processos
+- **Data Pipelines**: Integrações, ETL e sistemas de automação robustos
+- **AI-Powered Features**: Explorando LLMs, RAG patterns e agentes autônomos para resolver problemas reais
 
 ### 💭 Minha Filosofia
+Consistência vence talento. Cada linha de código que eu escrevo é um passo para me tornar melhor do que ontem.
+Não busco ser perfeito — busco **evoluir todos os dias** e construir sistemas que importam.
 
-Eu acredito que consistência vence talento.
-Cada linha de código que eu escrevo é um passo para me tornar melhor do que ontem.
-
-Não busco ser perfeito — busco evoluir todos os dias.
-
----
-
-### 🚀 Mensagem Final
-
-Estou apenas começando, mas estou comprometido em aprender, construir e crescer.
-
-Se você procura alguém determinado, curioso e pronto para evoluir — vamos nos conectar.
+### 🚀 Vamos nos conectar?
+Se você está procurando por alguém que combine **depth técnico** com **curiosidade por AI** e está disposto a resolver problemas complexos — vamos conversar.
 
 <picture>
   <source
